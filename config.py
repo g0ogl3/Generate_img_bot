@@ -1,4 +1,4 @@
-api_key = '8E65C99560BF9E208847B5061A31DDCA'
-secret_key = '884C7EAA40D557C13CBC38B2CF33A94B'
+api_key = 'Put your api key here'
+secret_key = 'Put your secret key here'
 url = 'https://api-key.fusionbrain.ai/'
-token = '7745272503:AAF9bIBcXnzGth74Pe-H84BukX8wwE-W7oQ'
+token = 'Put your telegram bot token '
